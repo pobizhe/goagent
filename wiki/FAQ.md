@@ -72,7 +72,8 @@
 > 打开 FireFox->选项->高级->加密->查看证书->证书机构->导入证书, 选择local\CA.crt, 勾选所有项，导入。
 
 1. goagent 原理是什么？
-> goagent是GAE应用，原理可以参考这个图 ![代理示意图](https://cloud.githubusercontent.com/assets/195836/4602738/ac950aba-5149-11e4-8976-a2606ba08e05.png)
+> goagent是GAE应用，原理可以参考这个图 ![代理示意图](https://github.com/pobizhe/goagent/raw/master/wiki/img/ac950aba-5149-11e4-8976-a2606ba08e05.png)   
+> https://cloud.githubusercontent.com/assets/195836/4602738/ac950aba-5149-11e4-8976-a2606ba08e05.png
 
 1. 如何防止 goagent 被匿名使用(盗用)？
 > 目前 goagent 最新版是支持的，请见密码设置 wiki 介绍。
